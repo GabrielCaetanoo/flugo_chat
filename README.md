@@ -101,5 +101,5 @@ flutter run -d chrome
 
 📍 Maringá — PR &nbsp;|&nbsp; 🎓 Engenharia de Software — Unicesumar &nbsp;|&nbsp; 💼 Assistente Financeiro em Construtora
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-caetano-7a454b149)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielCaetanoo)
